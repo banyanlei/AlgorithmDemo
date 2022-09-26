@@ -1,0 +1,10 @@
+F:\C# test\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\MonotonousStack.exe
+F:\C# test\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\MonotonousStack.deps.json
+F:\C# test\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\MonotonousStack.runtimeconfig.json
+F:\C# test\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\MonotonousStack.runtimeconfig.dev.json
+F:\C# test\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\MonotonousStack.dll
+F:\C# test\AlgorithmDemo\AlgorithmDemo\bin\Debug\netcoreapp3.1\MonotonousStack.pdb
+F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.AssemblyInfoInputs.cache
+F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.AssemblyInfo.cs
+F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.dll
+F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.pdb

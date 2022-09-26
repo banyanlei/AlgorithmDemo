@@ -8,3 +8,4 @@ F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.A
 F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.AssemblyInfo.cs
 F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.dll
 F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.pdb
+F:\C# test\AlgorithmDemo\AlgorithmDemo\obj\Debug\netcoreapp3.1\MonotonousStack.csprojAssemblyReference.cache

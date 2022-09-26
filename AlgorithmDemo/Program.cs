@@ -9,13 +9,13 @@ namespace MonotonousStack
         {
             foreach (int i in GetMaxRightArray(new int[] { 2, 6, 3, 8, 10, 9 }))
             {
-                Console.WriteLine(i);
+                Console.Write(i+" ");
             }
         }
 
         private static IEnumerable<int> GetMaxRightArray(int[] array)
         {
-            if (array == null || array.Length == 0) return array;
+            if (array == null || array.Length == 0) return array;//{ 2, 6, 3, 8, 10, 9 }
             Stack<int> stack = new Stack<int>();
             int[] res = new int[array.Length];
             for (int i = 0; i < array.Length; i++)

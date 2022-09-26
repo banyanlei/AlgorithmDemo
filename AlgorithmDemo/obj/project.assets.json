@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# test\\AlgorithmDemo\\AlgorithmDemo\\MonotonousStack.csproj",
-      "projectName": "MonotonousStack",
-      "projectPath": "F:\\C# test\\AlgorithmDemo\\AlgorithmDemo\\MonotonousStack.csproj",
+      "projectUniqueName": "F:\\C# test\\AlgorithmDemo\\AlgorithmDemo\\Monotonous_Stack.csproj",
+      "projectName": "Monotonous_Stack",
+      "projectPath": "F:\\C# test\\AlgorithmDemo\\AlgorithmDemo\\Monotonous_Stack.csproj",
       "packagesPath": "C:\\Users\\Mloong\\.nuget\\packages\\",
       "outputPath": "F:\\C# test\\AlgorithmDemo\\AlgorithmDemo\\obj\\",
       "projectStyle": "PackageReference",
